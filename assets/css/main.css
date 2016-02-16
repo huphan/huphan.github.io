@@ -1622,7 +1622,7 @@
 	}
 
 	body {
-		background: #312450;
+		background: #323232;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1721,10 +1721,10 @@
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #717071, #bebdbe);
+				background-image: -webkit-linear-gradient(to right, #717071, #bebdbe);
+				background-image: -ms-linear-gradient(to right, #717071, #bebdbe);
+				background-image: linear-gradient(to right, #717071, #bebdbe);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -1976,7 +1976,7 @@
 		button.special,
 		.button.special {
 			background-color: #ffffff;
-			color: #312450 !important;
+			color: #323232 !important;
 		}
 
 			input[type="submit"].special:after,
@@ -2406,7 +2406,7 @@
 		}
 
 	select option {
-		background-color: #312450;
+		background-color: #323232;
 		color: #ffffff;
 	}
 
@@ -2482,7 +2482,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #bebdbe;
 			content: '\f00c';
 		}
 
@@ -2552,7 +2552,7 @@
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #323232;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2563,23 +2563,23 @@
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #717071;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #000000;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #500000;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #500000;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #bebdbe;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3038,7 +3038,7 @@
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: rgba(114, 50, 50, 0.9);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3249,27 +3249,27 @@
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #dfdfdf;
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #717071;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #000000;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #500000;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #500000;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #bebdbe;
 		}
 
 		.wrapper.style3-alt {
@@ -3380,7 +3380,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #717071;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3534,7 +3534,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #323232;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3771,14 +3771,14 @@
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #500000;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #717071, #bebdbe);
+				background-image: -webkit-linear-gradient(to right, #717071, #bebdbe);
+				background-image: -ms-linear-gradient(to right, #717071, #bebdbe);
+				background-image: linear-gradient(to right, #717071, #bebdbe);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3867,7 +3867,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #bebdbe;
 						}
 
 		}
